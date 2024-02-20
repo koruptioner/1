@@ -1,6 +1,8 @@
 {
     "Preview": "Предварительный просмотр",
     "Gallery": "Галерея",
+    "Loading control models ...": "Загрузка контрольной модели",
+    "Image Prompt": "Prompt по фото",
     "highly detailed face": "Высокая детализация лица",
     "detailed girl face": "Детализация женского лица",
     "detailed man face": "Детализация мужского лица",
@@ -41,7 +43,7 @@
     "Input Image": "Изображения",
     "Advanced": "Дополнительно",
     "Upscale or Variation": "Изменение и Увеличение",
-    "Image Prompt": "(Prompt) по изображению",
+    "ImagePrompt": "(Prompt)по изображению",
     "Inpaint or Outpaint":"Расширить-Добавить-Улучшить",
     "Drag above image to here": "Переместите изображение сюда",
     "Upscale or Variation:": "Изменение и Увеличения:",
