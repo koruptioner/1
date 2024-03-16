@@ -1,0 +1,5 @@
+Перененести и согласиться с заменой : run.bat,run_anime.bat,run_realistic.bat 
+
+
+Перененести  (ru.json)  в папку /language
+ 
